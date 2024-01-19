@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libLIBRARY.a CMakeFiles/LIBRARY.dir/user_manager.cpp.obj
+C:\MinGW\bin\ranlib.exe libLIBRARY.a

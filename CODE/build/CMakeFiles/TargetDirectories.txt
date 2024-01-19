@@ -1,0 +1,3 @@
+C:/Users/ALBERT/Desktop/LIBRARY/build/CMakeFiles/LIBRARY.dir
+C:/Users/ALBERT/Desktop/LIBRARY/build/CMakeFiles/edit_cache.dir
+C:/Users/ALBERT/Desktop/LIBRARY/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/ALBERT/Desktop/LIBRARY/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/LIBRARY.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\LIBRARY.dir\\user_manager.cpp.obj -c C:\\Users\\ALBERT\\Desktop\\LIBRARY\\user_manager.cpp",
+  "file": "C:/Users/ALBERT/Desktop/LIBRARY/user_manager.cpp",
+  "output": "CMakeFiles/LIBRARY.dir/user_manager.cpp.obj"
+}
+]
